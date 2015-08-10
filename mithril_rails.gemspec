@@ -5,7 +5,7 @@ require "mithril_rails/version"
 
 # Describe your gem and declare its dependencies:
 Gem::Specification.new do |s|
-  s.name        = "mithril_rails"
+  s.name        = "ketan-mithril_rails"
   s.version     = MithrilRails::VERSION
   s.authors     = ["Jordan Humphreys"]
   s.email       = ["jordan@mailyard.net"]
